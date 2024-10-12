@@ -1,7 +1,7 @@
-# Zomato Restaurant Analysis and Price Prediction System
+# Restaurant Analysis and Price Prediction System
 
 ## 1. Introduction
-The *Zomato Restaurant Analysis and Price Prediction System* is a comprehensive web application designed to help users find restaurant recommendations, predict dining costs, and analyze sentiment based on customer reviews and ratings. Built using Python, Streamlit, and various machine learning models, this system provides an intuitive interface for both customers and restaurant owners to explore dining options and performance metrics.
+The *Restaurant Analysis and Price Prediction System* is a comprehensive web application designed to help users find restaurant recommendations, predict dining costs, and analyze sentiment based on customer reviews and ratings. Built using Python, Streamlit, and various machine learning models, this system provides an intuitive interface for both customers and restaurant owners to explore dining options and performance metrics.
 
 ## 2. Project Structure
 The project is structured as follows:
